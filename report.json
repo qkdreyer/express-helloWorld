@@ -1,0 +1,43 @@
+{
+  "instrumentation": "node-jscoverage",
+  "sloc": 0,
+  "hits": 0,
+  "misses": 0,
+  "coverage": 0,
+  "files": [],
+  "stats": {
+    "suites": 1,
+    "tests": 2,
+    "passes": 2,
+    "pending": 0,
+    "failures": 0,
+    "start": "2013-11-21T15:55:44.143Z",
+    "end": "2013-11-21T15:55:44.164Z",
+    "duration": 21
+  },
+  "tests": [
+    {
+      "title": "GET / should return 200",
+      "fullTitle": "When testing routes GET / should return 200",
+      "duration": 13
+    },
+    {
+      "title": "GET /hello should return 200 and contain \"Hello World\"",
+      "fullTitle": "When testing routes GET /hello should return 200 and contain \"Hello World\"",
+      "duration": 3
+    }
+  ],
+  "failures": [],
+  "passes": [
+    {
+      "title": "GET / should return 200",
+      "fullTitle": "When testing routes GET / should return 200",
+      "duration": 13
+    },
+    {
+      "title": "GET /hello should return 200 and contain \"Hello World\"",
+      "fullTitle": "When testing routes GET /hello should return 200 and contain \"Hello World\"",
+      "duration": 3
+    }
+  ]
+}
